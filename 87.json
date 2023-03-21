@@ -1,0 +1,50 @@
+{
+  "name": "Bears Studio #88",
+  "symbol": "BEARS",
+  "description": "Uniting artists and developers, our NFT collection is dedicated to delivering the best experience for founders. Our mission is to create unique and vibrant digital assets that bring your ideas to life.",
+  "seller_fee_basis_points": 0,
+  "image": "https://nftstorage.link/ipfs/bafybeibjozet44siggfq67qbtgazrnfftuy5mjiukwfux2wgfdtvnbwsai/87.png",
+  "external_url": "BEARS",
+  "edition": 87,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Techno Red "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile "
+    },
+    {
+      "trait_type": "Cap",
+      "value": "Red Cap "
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Red Maffia "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://nftstorage.link/ipfs/bafybeibjozet44siggfq67qbtgazrnfftuy5mjiukwfux2wgfdtvnbwsai/87.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AcUQiceFBBJtyVasd157SrDkJp2qje8ihypzi41Nma1U",
+        "share": 100
+      }
+    ]
+  }
+}
